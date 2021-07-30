@@ -1,0 +1,74 @@
+{
+  "name": "GTAADevChatBot",
+  "services": [
+    {
+      "type": "endpoint",
+      "name": "production",
+      "endpoint": "https://gtaadevchatbot.azurewebsites.net/api/messages",
+      "appId": "b5ea0f1c-ca6a-450c-8e0c-0673ef3cc55f",
+      "appPassword": "&V*%XVE$:7;aJhrdzYSYwlh3UZh{&n",
+      "id": "1"
+    },
+    {
+      "type": "endpoint",
+      "name": "development",
+      "endpoint": "http://localhost:3978/api/messages",
+      "appId": "",
+      "appPassword": "",
+      "id": "2"
+    },
+    {
+      "type": "luis",
+      "name": "GTAADevChatBotLuisAppProd",
+      "appId": "4e4a8de4-e0d5-4fac-a650-06bf09a825c2",
+      "authoringKey": "7c812b1aa1a541eabb12ebc72722fffc",
+      "subscriptionKey": "7c812b1aa1a541eabb12ebc72722fffc",
+      "version": "0.7",
+      "region": "canadacentral",
+      "id": "3"
+    },
+    {
+      "type": "luis",
+      "name": "GTAADevChatBotLuisAppAirlineFlow",
+      "appId": "fc046a26-de81-45d6-abd3-ac2638c8fcaa",
+      "authoringKey": "7c812b1aa1a541eabb12ebc72722fffc",
+      "subscriptionKey": "7c812b1aa1a541eabb12ebc72722fffc",
+      "version": "0.4",
+      "region": "canadacentral",
+      "id": "4"
+    },
+    {
+      "type": "qna",
+      "name": "gtaadevchatbotqnamaker-aseqg4mb6nonjwe",
+      "KbId": "b8efd24e-03b7-4608-9cd3-a1dff78b278b",
+      "Hostname": "https://gtaadevchatbotqnamaker.azurewebsites.net/qnamaker",
+      "EndpointKey": "4f3334dc-919a-47fd-b9f9-d2878a928a43",
+      "id": "5"
+    },
+    {
+      "type": "blob",
+      "id": "6",
+      "name": "gtaachatbotstorage",
+      "serviceName": "",
+      "tenantId": "55af228a-87f4-417d-a490-7b9e740956fe",
+      "subscriptionId": "4ccee19d-ef8a-4a65-b4f1-94bcf2e5baeb",
+      "resourceGroup": "GTAA-DEV-CHATBOT-RG",
+      "container": "botconversationstore"
+
+    },
+    {
+      "type": "appInsights",
+      "id": "7",
+      "name": "GTAADevChatbotdmfki3",
+      "serviceName": "appinsightsService",
+      "tenantId": "55af228a-87f4-417d-a490-7b9e740956fe",
+      "subscriptionId": "4ccee19d-ef8a-4a65-b4f1-94bcf2e5baeb",
+      "resourceGroup": "GTAA-DEV-CHATBOT-RG",
+      "instrumentationKey": "398ba597-623d-4a37-8121-538724fae328",
+      "apiKeys": {}
+    }
+
+  ],
+  "padlock": "",
+  "version": "2.0"
+}

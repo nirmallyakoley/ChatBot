@@ -1,0 +1,287 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "Image",
+              "horizontalAlignment": "Left",
+              "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNjRweCIgaGVpZ2h0PSI2NHB4IiB2aWV3Qm94PSIwIDAgNjQgNjQiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDU0LjEgKDc2NDkwKSAtIGh0dHBzOi8vc2tldGNoYXBwLmNvbSAtLT4KICAgIDx0aXRsZT5GaWxsIDQ8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZyBpZD0iUGljdG9zIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8cGF0aCBkPSJNNjAuNDY2NDcwMywyOC4xMjUxNzI0IEM2NS4xOTk3NTM4LDI4LjEzMTc1ODUgNjUuMTk5NzUzOCwzNS40NTU5NDc3IDYwLjMzMzYyODEsMzUuNDY0NjAzOCBMNDAuNTIyMTk4MiwzNS40NjQ2MDM4IEwyMy44MTMxNjYsNjQgTDE2LjUwOTU4NTksNjQgTDI1LjU3OTQ1NTgsMzUuNjAxMjE5NiBMMTAuNzcxNzUxNCwzNS42MDEyMTk2IEw1Ljc3MDk1MzU4LDQyLjE1MjM4MTUgTDAsNDIuMTUyMzgxNSBMMy4wMzQzMjk2NiwzMi4wMzM5NjU4IEwwLDIxLjg4Mjk5NTYgTDUuNzcwOTUzNTgsMjEuODgyOTk1NiBMMTAuNzcxNzUxNCwyOC4zOTg5Njg2IEwyNS41Nzk0NTU4LDI4LjM5ODk2ODYgTDE2LjUwODg1NCwwIEwyMy44MTMxNjYsMCBMNDAuNTIyMTk4MiwyOC4xMjUxNzI0IEw2MC40NjY0NzAzLDI4LjEyNTE3MjQgWiIgaWQ9IkZpbGwtNCIgZmlsbD0iIzAwMjY2MyI+PC9wYXRoPgogICAgPC9nPgo8L3N2Zz4=",
+              "size": "Small"
+            }
+          ],
+          "width": "auto"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Center",
+              "weight": "Bolder",
+              "text": "Date",
+              "wrap": true
+            },
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Center",
+              "spacing": "None",
+              "size": "Large",
+              "weight": "Bolder",
+              "color": "Accent",
+              "text": "<date>",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "weight": "Bolder",
+              "text": "Flight Status",
+              "wrap": true
+            },
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "spacing": "None",
+              "size": "Large",
+              "color": "Accent",
+              "text": "<status>",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "separator": true,
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "weight": "Bolder",
+              "color": "Accent",
+              "text": "Airline",
+              "wrap": true
+            }
+          ],
+          "width": "auto"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "spacing": "None",
+              "color": "Accent",
+              "text": "<Airline>",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "spacing": "Medium",
+      "separator": true,
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "weight": "Bolder",
+              "text": "Flight",
+              "wrap": true
+            },
+            {
+              "type": "TextBlock",
+              "spacing": "Small",
+              "weight": "Bolder",
+              "text": "<flightnumber>",
+              "wrap": true
+            }
+          ],
+          "width": 1
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Left",
+              "weight": "Bolder",
+              "text": "Scheduled Time",
+              "wrap": true
+            },
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Left",
+              "spacing": "Small",
+              "weight": "Bolder",
+              "color": "Dark",
+              "text": "<schTime>",
+              "wrap": true
+            }
+          ],
+          "width": 1
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "weight": "Bolder",
+              "text": "Estimated Time",
+              "wrap": true
+            },
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "spacing": "Small",
+              "weight": "Bolder",
+              "color": "Dark",
+              "text": "<latestTm>",
+              "wrap": true
+            }
+          ],
+          "width": 1
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "spacing": "Medium",
+      "separator": true,
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "weight": "Bolder",
+              "text": "<departcity>",
+              "wrap": true
+            },
+            {
+              "type": "TextBlock",
+              "spacing": "None",
+              "size": "ExtraLarge",
+              "color": "Accent",
+              "text": "<departcitycode>",
+              "wrap": true
+            }
+          ],
+          "width": 1
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": " "
+            },
+            {
+              "type": "Image",
+              "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNjRweCIgaGVpZ2h0PSI2NHB4IiB2aWV3Qm94PSIwIDAgNjQgNjQiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDU0LjEgKDc2NDkwKSAtIGh0dHBzOi8vc2tldGNoYXBwLmNvbSAtLT4KICAgIDx0aXRsZT5GaWxsIDQ8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZyBpZD0iUGljdG9zIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8cGF0aCBkPSJNNjAuNDY2NDcwMywyOC4xMjUxNzI0IEM2NS4xOTk3NTM4LDI4LjEzMTc1ODUgNjUuMTk5NzUzOCwzNS40NTU5NDc3IDYwLjMzMzYyODEsMzUuNDY0NjAzOCBMNDAuNTIyMTk4MiwzNS40NjQ2MDM4IEwyMy44MTMxNjYsNjQgTDE2LjUwOTU4NTksNjQgTDI1LjU3OTQ1NTgsMzUuNjAxMjE5NiBMMTAuNzcxNzUxNCwzNS42MDEyMTk2IEw1Ljc3MDk1MzU4LDQyLjE1MjM4MTUgTDAsNDIuMTUyMzgxNSBMMy4wMzQzMjk2NiwzMi4wMzM5NjU4IEwwLDIxLjg4Mjk5NTYgTDUuNzcwOTUzNTgsMjEuODgyOTk1NiBMMTAuNzcxNzUxNCwyOC4zOTg5Njg2IEwyNS41Nzk0NTU4LDI4LjM5ODk2ODYgTDE2LjUwODg1NCwwIEwyMy44MTMxNjYsMCBMNDAuNTIyMTk4MiwyOC4xMjUxNzI0IEw2MC40NjY0NzAzLDI4LjEyNTE3MjQgWiIgaWQ9IkZpbGwtNCIgZmlsbD0iIzAwMjY2MyI+PC9wYXRoPgogICAgPC9nPgo8L3N2Zz4=",
+              "size": "Small"
+            }
+          ],
+          "width": "auto"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "weight": "Bolder",
+              "text": "<arrivecity>",
+              "wrap": true
+            },
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "spacing": "None",
+              "size": "ExtraLarge",
+              "color": "Accent",
+              "text": "<arrivecitycode>",
+              "wrap": true
+            }
+          ],
+          "width": 1
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "separator": true,
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Left",
+              "weight": "Bolder",
+              "text": "Terminal   <term>",
+              "wrap": true
+            }
+          ],
+          "width": "200px"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "<GateLiteral>    <gate>",
+              "horizontalAlignment": "Center",
+              "weight": "Bolder"
+            }
+          ],
+          "width": "stretch"
+        }
+      ],
+      "horizontalAlignment": "Center",
+      "style": "default",
+      "minHeight": "30px",
+      "height": "stretch",
+      "spacing": "Padding"
+    },
+    {
+      "type": "Container",
+      "items": [
+        {
+          "type": "TextBlock",
+          "horizontalAlignment": "Left",
+          "height": "stretch",
+          "size": "Small",
+          "weight": "Bolder",
+          "color": "Dark",
+          "text": "<codeshare>",
+          "wrap": true
+        }
+      ]
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.0"
+}

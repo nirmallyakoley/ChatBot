@@ -1,0 +1,15 @@
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GtaaChatTokenApi\bin\Debug\netcoreapp2.2\GtaaChatTokenApi.deps.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GtaaChatTokenApi\bin\Debug\netcoreapp2.2\GtaaChatTokenApi.runtimeconfig.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GtaaChatTokenApi\bin\Debug\netcoreapp2.2\GtaaChatTokenApi.runtimeconfig.dev.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GtaaChatTokenApi\bin\Debug\netcoreapp2.2\GtaaChatTokenApi.dll
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GtaaChatTokenApi\bin\Debug\netcoreapp2.2\GtaaChatTokenApi.pdb
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GtaaChatTokenApi\obj\Debug\netcoreapp2.2\GtaaChatTokenApi.RazorAssemblyInfo.cache
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GtaaChatTokenApi\obj\Debug\netcoreapp2.2\GtaaChatTokenApi.RazorAssemblyInfo.cs
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GtaaChatTokenApi\obj\Debug\netcoreapp2.2\GtaaChatTokenApi.AssemblyInfoInputs.cache
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GtaaChatTokenApi\obj\Debug\netcoreapp2.2\GtaaChatTokenApi.AssemblyInfo.cs
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GtaaChatTokenApi\obj\Debug\netcoreapp2.2\GtaaChatTokenApi.RazorTargetAssemblyInfo.cache
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GtaaChatTokenApi\obj\Debug\netcoreapp2.2\GtaaChatTokenApi.dll
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GtaaChatTokenApi\obj\Debug\netcoreapp2.2\GtaaChatTokenApi.pdb
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GtaaChatTokenApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GtaaChatTokenApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GtaaChatTokenApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json

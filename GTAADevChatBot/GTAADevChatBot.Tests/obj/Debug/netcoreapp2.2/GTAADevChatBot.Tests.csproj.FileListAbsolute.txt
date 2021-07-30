@@ -1,0 +1,7 @@
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot.Tests\obj\Debug\netcoreapp2.2\GTAADevChatBot.Tests.Utterances.ChitchatUtterances.resources
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot.Tests\obj\Debug\netcoreapp2.2\GTAADevChatBot.Tests.Utterances.FaqUtterances.resources
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot.Tests\obj\Debug\netcoreapp2.2\GTAADevChatBot.Tests.Utterances.GeneralUtterances.resources
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot.Tests\obj\Debug\netcoreapp2.2\GTAADevChatBot.Tests.csproj.GenerateResource.cache
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot.Tests\obj\Debug\netcoreapp2.2\GTAADevChatBot.Tests.csproj.CoreCompileInputs.cache
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot.Tests\obj\Debug\netcoreapp2.2\GTAADevChatBot.Tests.AssemblyInfoInputs.cache
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot.Tests\obj\Debug\netcoreapp2.2\GTAADevChatBot.Tests.AssemblyInfo.cs

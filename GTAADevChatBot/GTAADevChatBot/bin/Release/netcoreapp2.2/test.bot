@@ -1,0 +1,18 @@
+{
+    "name": "test",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "315eb820-7c80-11e9-9697-af89f712c53c",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "E:\\GTAA-DEV-CHATBOT\\GTAADevChatBot\\GTAADevChatBot\\test.bot"
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTAADevChatBot", "GTAADevChatBot\GTAADevChatBot\GTAADevChatBot.csproj", "{7D7F2900-D0CD-4DD7-A6E7-54D43A513A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GtaaChatTokenApi", "GtaaChatTokenApi\GtaaChatTokenApi.csproj", "{D940AF88-C958-4245-89CA-D0479FD9E00E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D7F2900-D0CD-4DD7-A6E7-54D43A513A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7F2900-D0CD-4DD7-A6E7-54D43A513A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7F2900-D0CD-4DD7-A6E7-54D43A513A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7F2900-D0CD-4DD7-A6E7-54D43A513A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D940AF88-C958-4245-89CA-D0479FD9E00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D940AF88-C958-4245-89CA-D0479FD9E00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D940AF88-C958-4245-89CA-D0479FD9E00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D940AF88-C958-4245-89CA-D0479FD9E00E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6505AF28-DC40-4ADE-8CF4-F35D32F4202D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,431 @@
+[
+  {
+    "Airline": "Aer Lingus",
+    "Code1": "EIN",
+    "Code2": "EI",
+    "Terminal": "T3",
+    "Reservation": "https://www.aerlingus.com/html/en-CA/home.html",
+    "Baggage": "https://www.aerlingus.com/travel-information/baggage-information/missing-baggage/#/tab-0-delayed-or-missing-baggage",
+    "ContactNumber": "1-800-474-7424"
+  },
+  {
+    "Airline": "AeroMexico",
+    "Code1": "AMX",
+    "Code2": "AM",
+    "Terminal": "T3",
+    "Reservation": "https://aeromexico.com/en-ca",
+    "Baggage": "https://aeromexico.com/en-ca/travel-information/baggage",
+    "ContactNumber": "1-800-237-6639"
+  },
+
+  {
+    "Airline": "Air Canada",
+    "Code1": "ACA",
+    "Code2": "AC",
+    "Terminal": "T1",
+    "Reservation": "https://www.aircanada.com/ca/en/aco/home.html",
+    "Baggage": "https://www.aircanada.com/ca/en/aco/home/plan/baggage.html",
+    "ContactNumber": "1-888-247-2262"
+  },
+
+  {
+    "Airline": "Air Canada Jazz",
+    "Code1": "JZA",
+    "Code2": "QK",
+    "Terminal": "T1",
+    "Reservation": "https://www.aircanada.com/ca/en/aco/home.html",
+    "Baggage": "https://www.aircanada.com/ca/en/aco/home/plan/baggage.html",
+    "ContactNumber": "1-888-247-2262"
+  },
+
+  {
+    "Airline": "Air France",
+    "Code1": "AFR",
+    "Code2": "AF",
+    "Terminal": "T3",
+    "Reservation": "https://www.airfrance.ca/en?_ga=2.266344910.1596043953.1558634079-475337430.1558634079",
+    "Baggage": "https://www.airfrance.ca/CA/en/common/guidevoyageur/pratique/bagage_retarde_airfrance.htm",
+    "ContactNumber": "1-800-667-2747"
+  },
+  {
+    "Airline": "Air Italy",
+    "Code1": "ISS",
+    "Code2": "IG",
+    "Terminal": "T3",
+    "Reservation": "https://www.airitaly.com/en-US/",
+    "Baggage": "https://www.airitaly.com/en-US/",
+    "ContactNumber": "1-800-746-1888"
+
+  },
+
+  {
+    "Airline": "Air Transat",
+    "Code1": "TSC",
+    "Code2": "TS",
+    "Terminal": "T3",
+    "Reservation": "https://www.airtransat.com/en-CA/home?search=flight&flightType=RT&pax=1-0-0-0",
+    "Baggage": "https://www.airtransat.com/en-CA/Travel-information/Baggage",
+    "ContactNumber": "1-877-872-6728"
+  },
+
+  {
+    "Airline": "Alitalia",
+    "Code1": "AZA",
+    "Code2": "AZ",
+    "Terminal": "T3",
+    "Reservation": "https://www.alitalia.com/en_ca",
+    "Baggage": "https://www.alitalia.com/en_ca/support/baggage-assistance/delayed-delivery.html",
+    "ContactNumber": "1-800-361-8336"
+  },
+
+  {
+    "Airline": "American Airlines",
+    "Code1": "AAL",
+    "Code2": "AA",
+    "Terminal": "T3",
+    "Reservation": "https://www.aa.com/homePage.do",
+    "Baggage": "https://www.aa.com/i18n/travel-info/baggage/baggage.jsp?anchorEvent=false&from=Nav",
+    "ContactNumber": "1-800-433-7300"
+
+  },
+  {
+    "Airline": "Avianca Airlines",
+    "Code1": "AVA",
+    "Code2": "AV",
+    "Terminal": "T1",
+    "Reservation": "https://www.avianca.com/ca/en/",
+    "Baggage": "https://www.avianca.com/ca/en/",
+    "ContactNumber": "1 800 284 2622"
+  },
+  {
+    "Airline": "Azores Airlines",
+    "Code1": "RZO",
+    "Code2": "S4",
+    "Terminal": "T3",
+    "Reservation": "https://www.azoresairlines.pt/en",
+    "Baggage": "https://www.azoresairlines.pt/en",
+    "ContactNumber": "416-515-7188"
+  },
+
+  {
+    "Airline": "British Airways",
+    "Code1": "BAW",
+    "Code2": "BA",
+    "Terminal": "T3",
+    "Reservation": "https://www.britishairways.com/travel/home/public/en_ca/",
+    "Baggage": "https://www.britishairways.com/en-ca/information/baggage-essentials",
+    "ContactNumber": "1-800-247-9297"
+  },
+  {
+    "Airline": "Brussels Airlines",
+    "Code1": "BEL",
+    "Code2": "SN",
+    "Terminal": "T1",
+    "Reservation": "https://www.brusselsairlines.com/en-ca/",
+    "Baggage": "https://www.brusselsairlines.com/en-ca/practical-information/travel-info/before-the-flight/luggage-info/default.aspx",
+    "ContactNumber": "1-866-308-2230"
+
+  },
+  
+  {
+    "Airline": "Caribbean Airlines",
+    "Code1": "BWA",
+    "Code2": "BW",
+    "Terminal": "T3",
+    "Reservation": "https://www.caribbean-airlines.com/#/main",
+    "Baggage": "https://www.caribbean-airlines.com/#/baggage",
+    "ContactNumber": "1-800-920-4225"
+  },
+
+  {
+    "Airline": "Cathay Pacific",
+    "Code1": "CPA",
+    "Code2": "CX",
+    "Terminal": "T3",
+    "Reservation": "https://www.cathaypacific.com/cx/en_CA.html",
+    "Baggage": "https://www.cathaypacific.com/cx/en_CA/travel-information/baggage.html?cxsource=TOP-NAV_MANAGE_3_1",
+    "ContactNumber": "1 800 268 6868"
+  },
+
+  {
+    "Airline": "China Eastern",
+    "Code1": "CES",
+    "Code2": "MU",
+    "Terminal": "T3",
+    "Reservation": "https://ca.ceair.com/en/",
+    "Baggage": "https://ca.ceair.com/en/content/information/baggage/",
+    "ContactNumber": "1 888 358 1582"
+  },
+
+
+  {
+    "Airline": "China Southern",
+    "Code1": "CSN",
+    "Code2": "CZ",
+    "Terminal": "T3",
+    "Reservation": "https://global.csair.com/CA/GB/Home",
+    "Baggage": "https://global.csair.com/CA/GB/JTXX/INFO/XLFW/LSBA#",
+    "ContactNumber": "011-86-400-869-5539"
+  },
+
+  {
+    "Airline": "Condor ",
+    "Code1": "CFG",
+    "Code2": "DE",
+    "Terminal": "T3",
+    "Reservation": "https://www.condor.com/us",
+    "Baggage": "https://www.condor.com/us/flight-preparation/baggage-and-animals/baggage.jsp",
+    "ContactNumber": "1-866-960-7915"    
+  },
+ 
+  {
+    "Airline": "Copa Airlines",
+    "Code1": "CMP",
+    "Code2": "CM",
+    "Terminal": "T1",
+    "Reservation": "https://www.copaair.com/en/web/ca",
+    "Baggage": "https://www.copaair.com/en/web/ca/baggage-calculator",
+    "ContactNumber": "1-800-359-2672"
+  },
+
+  {
+    "Airline": "Delta",
+    "Code1": "DAL",
+    "Code2": "DL",
+    "Terminal": "T3",
+    "Reservation": "https://www.delta.com/ca/en",
+    "Baggage": "https://www.delta.com/en_US/traveling-with-us/baggage",
+    "ContactNumber": "1-800-221-1212"
+  },
+
+  {
+    "Airline": "Egyptair",
+    "Code1": "MSR",
+    "Code2": "MS",
+    "Terminal": "T1",
+    "Reservation": "https://www.egyptair.com/en/Pages/HomePage.aspx",
+    "Baggage": "https://www.egyptair.com/en/fly/baggage/Pages/default.aspx",
+    "ContactNumber": "1-866-875-9990"
+  },
+
+  {
+    "Airline": "El Al Israel",
+    "Code1": "ELY",
+    "Code2": "LY",
+    "Terminal": "T3",
+    "Reservation": "https://www.elal.com/en/Canada/Pages/default.aspx",
+    "Baggage": "https://www.elal.com/en/PassengersInfo/Baggage/Pages/default.aspx",
+    "ContactNumber": "1-800-223-6700"
+
+  },
+
+  {
+    "Airline": "Emirates",
+    "Code1": "UAE",
+    "Code2": "EK",
+    "Terminal": "T1",
+    "Reservation": "https://www.emirates.com/ca/english/",
+    "Baggage": "https://www.emirates.com/ca/english/before-you-fly/baggage/",
+    "ContactNumber": "1-800-777-3999"
+  },
+
+
+  {
+    "Airline": "Ethiopian",
+    "Code1": "ETH",
+    "Code2": "ET",
+    "Terminal": "T1",
+    "Reservation": "https://www.ethiopianairlines.com/CA/EN/",
+    "Baggage": "https://www.ethiopianairlines.com/CA/EN/information/baggage",
+    "ContactNumber": "1-800-445-2733"
+  },
+
+  {
+    "Airline": "Etihad",
+    "Code1": "ETD",
+    "Code2": "EY",
+    "Terminal": "T3",
+    "Reservation": "https://flights.etihad.com/en-ca/",
+    "Baggage": "https://www.etihad.com/en-ca/before-you-fly/baggage-information/",
+    "ContactNumber": "1-866-948-1081"
+  },
+
+  {
+    "Airline": "Eva Air",
+    "Code1": "EVA",
+    "Code2": "BR",
+    "Terminal": "T1",
+    "Reservation": "https://www.evaair.com/en-us/index.html",
+    "Baggage": "https://www.evaair.com/en-us/managing-your-trip/baggage-information/general-information/",
+    "ContactNumber": "1-800-695-1188"
+  },
+
+  {
+    "Airline": "Flair Airlines",
+    "Code1": "FLE",
+    "Code2": "F8",
+    "Terminal": "T3",
+    "Reservation": "https://flyflair.com/",
+    "Baggage": "https://flyflair.com/travel-info/baggage/",
+    "ContactNumber": "1-204-285-0844"
+  },
+
+  {
+    "Airline": "Hainan Airlines",
+    "Code1": "CHH",
+    "Code2": "HU",
+    "Terminal": "T3",
+    "Reservation": "https://www.hainanairlines.com/CA/GB/Home",
+    "Baggage": "https://www.hainanairlines.com/CA/GB/BASV",
+    "ContactNumber": "1-888-688-8876"
+  },
+
+  {
+    "Airline": "Icelandair",
+    "Code1": "ICE",
+    "Code2": "FI",
+    "Terminal": "T3",
+    "Reservation": "https://www.icelandair.com/en-ca/",
+    "Baggage": "https://www.icelandair.com/en-ca/support/baggage/",
+    "ContactNumber": "1-800-223-5500"
+  },
+
+  {
+    "Airline": "Interjet",
+    "Code1": "AIJ",
+    "Code2": "4O",
+    "Terminal": "T3",
+    "Reservation": "https://www.interjet.com/en-ca",
+    "Baggage": "https://www.interjet.com/en-ca",
+    "ContactNumber": "1-844-819-2462"
+  },
+
+  {
+    "Airline": "KLM",
+    "Code1": "KLM",
+    "Code2": "KL",
+    "Terminal": "T3",
+    "Reservation": "https://www.klm.com/home/ca/en",
+    "Baggage": "https://www.klm.com/travel/ca_en/prepare_for_travel/baggage/all_about/index.htm",
+    "ContactNumber": "1-800-618-0104"
+  },
+
+  {
+    "Airline": "Korean Air",
+    "Code1": "KAL",
+    "Code2": "KE",
+    "Terminal": "T3",
+    "Reservation": "https://www.koreanair.com/global/en.html",
+    "Baggage": "https://www.koreanair.com/global/en/traveling/baggage-services.html",
+    "ContactNumber": "1-800-438-5000"
+  },
+
+  {
+    "Airline": "LOT Polish Airlines",
+    "Code1": "LOT",
+    "Code2": "LO",
+    "Terminal": "T1",
+    "Reservation": "https://www.lot.com/ca/en/",
+    "Baggage": "https://www.lot.com/ca/en/baggage",
+    "ContactNumber": "416-236-4242"
+  },
+
+  {
+    "Airline": "Lufthansa",
+    "Code1": "DLH",
+    "Code2": "LH",
+    "Terminal": "T1",
+    "Reservation": "https://www.lufthansa.com/ca/en/homepage",
+    "Baggage": "https://www.lufthansa.com/ca/en/baggage-overview",
+    "ContactNumber": "1-800-563-5954"
+  },
+
+  {
+    "Airline": "Pakistan International Airlines",
+    "Code1": "PIA",
+    "Code2": "PK",
+    "Terminal": "T3",
+    "Reservation": "https://www.piac.com.pk/",
+    "Baggage": "https://www.piac.com.pk/",
+    "ContactNumber": "1 844 315 5983"
+  },
+
+  {
+    "Airline": "Philippine Airlines",
+    "Code1": "PAL",
+    "Code2": "PR",
+    "Terminal": "T3",
+    "Reservation": "https://www.philippineairlines.com/en",
+    "Baggage": "https://www.philippineairlines.com/en/travelinformation/beforeyoufly/baggage%20information",
+    "ContactNumber": "1-800-435-9725"
+  },
+
+  {
+    "Airline": "Sunwing Airlines",
+    "Code1": "SWG",
+    "Code2": "WG",
+    "Terminal": "T3",
+    "Reservation": "https://www.sunwing.ca/pages/en/sunwing-airlines",
+    "Baggage": "https://www.sunwing.ca/pages/en/sunwing-airlines/baggage-info",
+    "ContactNumber": "1-877-877-1755"
+
+  },
+
+  {
+    "Airline": "TAP Air Portugal",
+    "Code1": "TAP",
+    "Code2": "TP",
+    "Terminal": "T1",
+    "Reservation": "https://www.flytap.com/en-ca/",
+    "Baggage": "https://www.flytap.com/en-ca/baggage",
+    "ContactNumber": "1-800-221-7370"
+  },
+
+  {
+    "Airline": "Turkish Airlines",
+    "Code1": "THY",
+    "Code2": "TK",
+    "Terminal": "T1",
+    "Reservation": "https://www.turkishairlines.com/en-ca/index.html",
+    "Baggage": "https://www.turkishairlines.com/en-ca/any-questions/baggage-information/#tcm229-100618",
+    "ContactNumber": "1-800-874-8875"
+  },
+
+  {
+    "Airline": "Ukraine International Airlines",
+    "Code1": "AUI",
+    "Code2": "PS",
+    "Terminal": "T3",
+    "Reservation": "https://www.flyuia.com/ca/en/home",
+    "Baggage": "https://www.flyuia.com/ca/en/information/baggage",
+    "ContactNumber": "1-800-876-0114"
+  },
+
+  {
+    "Airline": "United Airlines",
+    "Code1": "UAL",
+    "Code2": "UA",
+    "Terminal": "T1",
+    "Reservation": "https://www.united.com/en/ca",
+    "Baggage": "https://www.united.com/ual/en/us/fly/travel/baggage.html",
+    "ContactNumber": "1-800-228-2744"
+  },
+  {
+    "Airline": "Westjet",
+    "Code1": "WJA",
+    "Code2": "WS",
+    "Terminal": "T3",
+    "Reservation": "https://www.westjet.com/en-ca/index",
+    "Baggage": "https://www.westjet.com/en-ca/travel-info/baggage/index",
+    "ContactNumber": "1-888-937-8538"
+  },
+  {
+    "Airline": "Air India",
+    "Code1": "AI",
+    "Code2": "AIC",
+    "Terminal": "T1",
+    "Reservation": "http://www.airindia.in/",
+    "Baggage": "http://www.airindia.in/lost-found-baggage.htm",
+    "ContactNumber": "1-800-625-6424"
+  }
+]

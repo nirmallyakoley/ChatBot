@@ -1,0 +1,287 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "Image",
+              "horizontalAlignment": "Left",
+              "url": "data:image/png;base64,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",
+              "size": "Small",
+              "altText": ""
+            }
+          ],
+          "width": "auto"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Center",
+              "weight": "Bolder",
+              "text": "Date",
+              "wrap": true
+            },
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Center",
+              "spacing": "None",
+              "size": "Large",
+              "weight": "Bolder",
+              "color": "Accent",
+              "text": "<date>",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "weight": "Bolder",
+              "text": "Flight Status",
+              "wrap": true
+            },
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "spacing": "None",
+              "size": "Large",
+              "color": "Accent",
+              "text": "<status>",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "separator": true,
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "weight": "Bolder",
+              "color": "Accent",
+              "text": "Airline",
+              "wrap": true
+            }
+          ],
+          "width": "auto"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "spacing": "None",
+              "color": "Accent",
+              "text": "<Airline>",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "spacing": "Medium",
+      "separator": true,
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "weight": "Bolder",
+              "text": "Flight",
+              "wrap": true
+            },
+            {
+              "type": "TextBlock",
+              "spacing": "Small",
+              "weight": "Bolder",
+              "text": "<flightnumber>",
+              "wrap": true
+            }
+          ],
+          "width": 1
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Left",
+              "weight": "Bolder",
+              "text": "Scheduled Time",
+              "wrap": true
+            },
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Left",
+              "spacing": "Small",
+              "weight": "Bolder",
+              "color": "Dark",
+              "text": "<schTime>",
+              "wrap": true
+            }
+          ],
+          "width": 1
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "weight": "Bolder",
+              "text": "Estimated Time",
+              "wrap": true
+            },
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "spacing": "Small",
+              "weight": "Bolder",
+              "color": "Dark",
+              "text": "<latestTm>",
+              "wrap": true
+            }
+          ],
+          "width": 1
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "spacing": "Medium",
+      "separator": true,
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "weight": "Bolder",
+              "text": "<departcity>",
+              "wrap": true
+            },
+            {
+              "type": "TextBlock",
+              "spacing": "None",
+              "size": "ExtraLarge",
+              "color": "Accent",
+              "text": "<departcitycode>",
+              "wrap": true
+            }
+          ],
+          "width": 1
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": " "
+            },
+            {
+              "type": "Image",
+              "url": "data:image/png;base64,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",
+              "size": "Small",
+              "altText": ""
+            }
+          ],
+          "width": "auto"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "weight": "Bolder",
+              "text": "<arrivecity>",
+              "wrap": true
+            },
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "spacing": "None",
+              "size": "ExtraLarge",
+              "color": "Accent",
+              "text": "<arrivecitycode>",
+              "wrap": true
+            }
+          ],
+          "width": 1
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "separator": true,
+      "columns": [
+        {
+          "type": "Column",
+          "verticalContentAlignment": "Center",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Left",
+              "weight": "Bolder",
+              "text": "Terminal",
+              "wrap": true
+            }
+          ],
+          "width": "100px"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Left",
+              "size": "Medium",
+              "weight": "Bolder",
+              "text": "<term>",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        }
+      ]
+    },
+    {
+      "type": "Container",
+      "items": [
+        {
+          "type": "TextBlock",
+          "horizontalAlignment": "Left",
+          "height": "stretch",
+          "size": "Small",
+          "weight": "Bolder",
+          "color": "Dark",
+          "text": "<codeshare>",
+          "wrap": true
+        }
+      ]
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.0"
+}

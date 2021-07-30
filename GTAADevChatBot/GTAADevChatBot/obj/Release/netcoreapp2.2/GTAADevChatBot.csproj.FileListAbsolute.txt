@@ -1,0 +1,58 @@
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\GTAADevChatBot.bot
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\GTAADevChatBot.deps.json
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\GTAADevChatBot.runtimeconfig.json
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\GTAADevChatBot.runtimeconfig.dev.json
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\GTAADevChatBot.dll
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\GTAADevChatBot.pdb
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.csproj.CoreCompileInputs.cache
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.RazorAssemblyInfo.cache
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.RazorAssemblyInfo.cs
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.AssemblyInfoInputs.cache
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.AssemblyInfo.cs
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.RazorTargetAssemblyInfo.cache
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.dll
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.pdb
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.csprojAssemblyReference.cache
+E:\GTAA-DEV-CHATBOT\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\test.bot
+E:\swapnil\GTAA_CHATBOT\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\GTAADevChatBot.bot
+E:\swapnil\GTAA_CHATBOT\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\GTAADevChatBot.deps.json
+E:\swapnil\GTAA_CHATBOT\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\GTAADevChatBot.runtimeconfig.json
+E:\swapnil\GTAA_CHATBOT\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\GTAADevChatBot.runtimeconfig.dev.json
+E:\swapnil\GTAA_CHATBOT\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\GTAADevChatBot.dll
+E:\swapnil\GTAA_CHATBOT\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\GTAADevChatBot.pdb
+E:\swapnil\GTAA_CHATBOT\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.csproj.CoreCompileInputs.cache
+E:\swapnil\GTAA_CHATBOT\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.RazorAssemblyInfo.cache
+E:\swapnil\GTAA_CHATBOT\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.RazorAssemblyInfo.cs
+E:\swapnil\GTAA_CHATBOT\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.AssemblyInfoInputs.cache
+E:\swapnil\GTAA_CHATBOT\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.AssemblyInfo.cs
+E:\swapnil\GTAA_CHATBOT\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.RazorTargetAssemblyInfo.cache
+E:\swapnil\GTAA_CHATBOT\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.dll
+E:\swapnil\GTAA_CHATBOT\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.pdb
+E:\swapnil\GTAA_CHATBOT\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.csprojAssemblyReference.cache
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\GTAADevChatBot.bot
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\GTAADevChatBot.deps.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\GTAADevChatBot.runtimeconfig.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\GTAADevChatBot.runtimeconfig.dev.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\GTAADevChatBot.dll
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\GTAADevChatBot.pdb
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.RazorAssemblyInfo.cache
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.RazorAssemblyInfo.cs
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.AssemblyInfoInputs.cache
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.AssemblyInfo.cs
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.RazorTargetAssemblyInfo.cache
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.dll
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.pdb
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\obj\Release\netcoreapp2.2\GTAADevChatBot.csprojAssemblyReference.cache
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\.filenesting.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\Connected Services\Application Insights\ConnectedService.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\Dialogs\Resources\airline.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\Dialogs\Resources\Facebook.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\Dialogs\Resources\Facebook_FlightStatus_Card.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\Dialogs\Resources\flightStatus.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\Dialogs\Resources\FoodAndBeverage.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\Dialogs\Resources\FoodAndBeverageAdptiveCard.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\Dialogs\Resources\RetailAndDutyFree.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\Dialogs\Resources\ServiceAmenities.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\libman.json
+C:\Users\gtaadmin\GTAA Chatbot\Gtaa_Chatbot\Gtaa_Chatbot\GTAADevChatBot\GTAADevChatBot\bin\Release\netcoreapp2.2\Properties\launchSettings.json

@@ -1,0 +1,84 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <UserSecretsId>a22c0aad-868c-4a9e-aa3b-bd632fb83097</UserSecretsId>
+    <ApplicationInsightsResourceId>/subscriptions/4ccee19d-ef8a-4a65-b4f1-94bcf2e5baeb/resourcegroups/Default-ApplicationInsights-EastUS/providers/microsoft.insights/components/GTAADevChatBot</ApplicationInsightsResourceId>
+    <ApplicationInsightsAnnotationResourceId>/subscriptions/4ccee19d-ef8a-4a65-b4f1-94bcf2e5baeb/resourcegroups/Default-ApplicationInsights-EastUS/providers/microsoft.insights/components/GTAADevChatBot</ApplicationInsightsAnnotationResourceId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="APIController\**" />
+    <Compile Remove="Social Miner\NewFolder\**" />
+    <Content Remove="APIController\**" />
+    <Content Remove="Social Miner\NewFolder\**" />
+    <EmbeddedResource Remove="APIController\**" />
+    <EmbeddedResource Remove="Social Miner\NewFolder\**" />
+    <None Remove="APIController\**" />
+    <None Remove="Social Miner\NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Dialogs\FlightStatus\ByAirline\FlightStatusByAirlineDialog.cs" />
+    <Compile Remove="Dialogs\FlightStatus\ByAirline\ResponseModel.cs" />
+    <Compile Remove="Dialogs\FlightStatus\ByFlightID\FlightStatusResponse.cs" />
+    <Compile Remove="Dialogs\FlightStatus\Resources\FlightStatusResponseJson.cs" />
+    <Compile Remove="Social Miner\Cisco_Social_Miner.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Dialogs\LostAndFound\TeminalsAndOther\OnTerminalAndOtherDialog.cs~RFa8bc4.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AdaptiveCards" Version="1.2.2" />
+    <PackageReference Include="Bot.Builder.Community.Middleware.SpellCheck" Version="4.5.4" />
+    <PackageReference Include="Microsoft.ApplicationInsights" Version="2.11.0-beta1" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.8.0-beta1" />
+    <PackageReference Include="Microsoft.ApplicationInsights.DependencyCollector" Version="2.11.0-beta1" />
+    <PackageReference Include="Microsoft.ApplicationInsights.Web" Version="2.11.0-beta1" />
+    <PackageReference Include="Microsoft.AspNetCore.All" />
+    <PackageReference Include="Microsoft.Azure.CognitiveServices.ContentModerator" Version="2.0.0" />
+    <PackageReference Include="Microsoft.Azure.CognitiveServices.Language" Version="1.0.1-preview" />
+    <PackageReference Include="Microsoft.Azure.KeyVault" Version="3.0.4" />
+    <PackageReference Include="Microsoft.Azure.Services.AppAuthentication" Version="1.3.1" />
+    <PackageReference Include="Microsoft.Bot.Builder" Version="4.5.1" />
+    <PackageReference Include="Microsoft.Bot.Builder.AI.Luis" Version="4.5.1" />
+    <PackageReference Include="Microsoft.Bot.Builder.AI.QnA" Version="4.5.1" />
+    <PackageReference Include="Microsoft.Bot.Builder.ApplicationInsights" Version="4.5.1" />
+    <PackageReference Include="Microsoft.Bot.Builder.Azure" Version="4.5.1" />
+    <PackageReference Include="Microsoft.Bot.Builder.Dialogs" Version="4.5.1" />
+    <PackageReference Include="Microsoft.Bot.Builder.Integration.ApplicationInsights.Core" Version="4.5.1" />
+    <PackageReference Include="Microsoft.Bot.Builder.Integration.AspNet.Core" Version="4.5.1" />
+    <PackageReference Include="Microsoft.Bot.Builder.TemplateManager" Version="4.5.1" />
+    <PackageReference Include="Microsoft.Bot.Configuration" Version="4.5.1" />
+    <PackageReference Include="Microsoft.Bot.Connector" Version="4.5.1" />
+    <PackageReference Include="Microsoft.Bot.Schema" Version="4.5.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.AzureKeyVault" Version="3.0.0-preview8.19405.4" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="3.0.0-preview8.19405.4" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="3.0.0-preview8.19405.4" />
+    <PackageReference Include="Microsoft.Graph" Version="1.17.0" />
+    <PackageReference Include="Microsoft.Recognizers.Text.DataTypes.TimexExpression" Version="1.2.6" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.0.0-preview8-19413-06" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3-beta1" />
+    <PackageReference Include="RestSharp" Version="106.6.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="*.bot">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Dialogs\FlightStatus\ByAirline\" />
+    <Folder Include="images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties dialogs_4resources_4flightstatus_1json__JsonSchema="" gtaadevchatbot_1bot__JsonSchema="http://json.schemastore.org/2.0.0-csd.2.beta.2018-10-10.json" /></VisualStudio></ProjectExtensions>
+
+</Project>
